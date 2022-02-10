@@ -1,0 +1,210 @@
+[
+  {
+    "id": 24,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2011,
+    "amount": 1115.3,
+    "slug": "farmaceutico-arouca-2011"
+  },
+  {
+    "id": 25,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2012,
+    "amount": 1843,
+    "slug": "farmaceutico-arouca-2012"
+  },
+  {
+    "id": 26,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2013,
+    "amount": 0,
+    "slug": "farmaceutico-arouca-2013"
+  },
+  {
+    "id": 28,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2014,
+    "amount": 1138.9,
+    "slug": "farmaceutico-arouca-2014"
+  },
+  {
+    "id": 29,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2015,
+    "amount": 1129.5,
+    "slug": "farmaceutico-arouca-2015"
+  },
+  {
+    "id": 30,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2016,
+    "amount": 1065.1,
+    "slug": "farmaceutico-arouca-2016"
+  },
+  {
+    "id": 31,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2017,
+    "amount": 1242.6,
+    "slug": "farmaceutico-arouca-2017"
+  },
+  {
+    "id": 32,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2018,
+    "amount": 1047.5,
+    "slug": "farmaceutico-arouca-2018"
+  },
+  {
+    "id": 33,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2019,
+    "amount": 1155,
+    "slug": "farmaceutico-arouca-2019"
+  },
+  {
+    "id": 34,
+    "city": "Arouca",
+    "specialty": "Farmaceutico",
+    "year": 2020,
+    "amount": 1148,
+    "slug": "farmaceutico-arouca-2020"
+  },
+  {
+    "id": 35,
+    "city": "Portugal",
+    "specialty": "Medico",
+    "year": 2009,
+    "amount": 263.6,
+    "slug": "medico-portugal-2009"
+  },
+  {
+    "id": 36,
+    "city": "Portugal",
+    "specialty": "Medico",
+    "year": 2010,
+    "amount": 255.2,
+    "slug": "medico-portugal-2010"
+  },
+  {
+    "id": 37,
+    "city": "Portugal",
+    "specialty": "Medico",
+    "year": 2011,
+    "amount": 246.7,
+    "slug": "medico-portugal-2011"
+  },
+  {
+    "id": 38,
+    "city": "Portugal",
+    "specialty": "Medico",
+    "year": 2012,
+    "amount": 239.7,
+    "slug": "medico-portugal-2012"
+  },
+  {
+    "id": 1,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2009,
+    "amount": 1136.7,
+    "slug": "Medico-Arouca-2009"
+  },
+  {
+    "id": 2,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2010,
+    "amount": 1071.1,
+    "slug": "Medico-Arouca-2010"
+  },
+  {
+    "id": 3,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2011,
+    "amount": 1013.9,
+    "slug": "Medico-Arouca-2011"
+  },
+  {
+    "id": 4,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2012,
+    "amount": 1053.2,
+    "slug": "Medico-Arouca-2012"
+  },
+  {
+    "id": 5,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2013,
+    "amount": 994.4,
+    "slug": "Medico-Arouca-2013"
+  },
+  {
+    "id": 10,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2014,
+    "amount": 865.6,
+    "slug": "Medico-Arouca-2014"
+  },
+  {
+    "id": 11,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2015,
+    "amount": 825.4,
+    "slug": "Medico-Arouca-2015"
+  },
+  {
+    "id": 12,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2016,
+    "amount": 819.3,
+    "slug": "Medico-Arouca-2016"
+  },
+  {
+    "id": 13,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2017,
+    "amount": 754.5,
+    "slug": "Medico-Arouca-2017"
+  },
+  {
+    "id": 15,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2018,
+    "amount": 722.4,
+    "slug": "Medico-Arouca-2018"
+  },
+  {
+    "id": 16,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2019,
+    "amount": 716.9,
+    "slug": "Medico-Arouca-2019"
+  },
+  {
+    "id": 18,
+    "city": "Arouca",
+    "specialty": "Medico",
+    "year": 2020,
+    "amount": 666.6,
+    "slug": "Medico-Arouca-2020"
+  }
+]
